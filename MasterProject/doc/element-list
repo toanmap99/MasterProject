@@ -1,0 +1,5 @@
+com.graymatter.demo
+com.graymatter.demo.controller
+com.graymatter.demo.model
+com.graymatter.demo.repo
+com.graymatter.demo.service
