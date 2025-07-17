@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.graymatter.demo"},{"l":"com.graymatter.demo.controller"},{"l":"com.graymatter.demo.model"},{"l":"com.graymatter.demo.repo"},{"l":"com.graymatter.demo.service"}];updateSearchResults();
